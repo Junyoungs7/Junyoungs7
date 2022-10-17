@@ -19,4 +19,4 @@ I'm JunYoung
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junyoungs7&show_icons=true&theme=radical)
 
-                                                        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyoungs7&count_bg=%2379C83D&title_bg=%23332A2A&icon=spring.svg&icon_color=%23E7E7E7&title=Git&edge_flat=false)](https://hits.seeyoufarm.com)                   
